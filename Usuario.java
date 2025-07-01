@@ -7,7 +7,7 @@ import java.time.format.DateTimeFormatter;
  * Classe modelo para representar um usuário do sistema FinTrack
  * Contém informações pessoais e operações básicas de conta
  * 
- * @author Desenvolvedor FinTrack
+ * @author Arthur Oliveira Silva
  * @version 1.0
  */
 public class Usuario {
