@@ -8,7 +8,7 @@ import java.util.Scanner;
  * Controlador principal da aplicação FinTrack
  * Gerencia a interface do usuário e fluxo do sistema
  * 
- * @author Desenvolvedor FinTrack
+ * @author Arthur Oliveira Silva
  * @version 1.0
  */
 public class AppController {
