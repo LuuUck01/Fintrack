@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
  * Classe utilitária para validações do sistema FinTrack
  * Contém métodos estáticos para validar dados de entrada
  * 
- * @author Desenvolvedor FinTrack
+ * @author Arthur Oliveira Silva
  * @version 1.0
  */
 public class ValidadorUtil {
