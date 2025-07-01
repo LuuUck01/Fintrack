@@ -9,7 +9,7 @@ import java.util.List;
  * Classe de serviço para operações relacionadas ao usuário
  * Gerencia todas as operações de negócio do sistema
  * 
- * @author Desenvolvedor FinTrack
+ * @author Arthur Oliveira Silva
  * @version 1.0
  */
 public class UsuarioService {
